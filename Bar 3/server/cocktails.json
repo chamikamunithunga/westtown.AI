@@ -1,0 +1,125 @@
+[
+  {
+    "name": "Sunset Margarita",
+    "description": "A vibrant and fruity twist on the classic margarita, perfect for a cheerful mood.",
+    "ingredients": ["Tequila", "Orange Liqueur", "Lime Juice", "Pomegranate Juice"],
+    "price": "1850"
+  },
+  {
+    "name": "Spicy Pineapple Mule",
+    "description": "A fiery and tropical cocktail for the adventurous soul, balancing heat with sweetness.",
+    "ingredients": ["Vodka", "Ginger Beer", "Pineapple Juice", "Jalapeño Slices"],
+    "price": "1560"
+  },
+  {
+    "name": "Lavender Gin Fizz",
+    "description": "A sophisticated and calming cocktail with floral notes, ideal for relaxation.",
+    "ingredients": ["Gin", "Lavender Syrup", "Lemon Juice", "Soda Water", "Egg White"],
+    "price": "1450"
+  },
+  {
+    "name": "Tropical Paradise",
+    "description": "An exotic blend that transports you to a beach vacation with every sip.",
+    "ingredients": ["Rum", "Coconut Cream", "Mango Juice", "Passion Fruit", "Pineapple Juice"],
+    "price": "1580"
+  },
+  {
+    "name": "Smoky Old Fashioned",
+    "description": "A classic cocktail with a modern twist, featuring rich smoky undertones.",
+    "ingredients": ["Bourbon", "Smoked Simple Syrup", "Angostura Bitters", "Orange Peel"],
+    "price": "1650"
+  },
+  {
+    "name": "Berry Bellini",
+    "description": "A refreshing and bubbly cocktail perfect for celebrations and happy occasions.",
+    "ingredients": ["Prosecco", "Mixed Berry Puree", "Peach Schnapps", "Fresh Berries"],
+    "price": "1180"
+  },
+  {
+    "name": "Cucumber Mint Cooler",
+    "description": "A crisp and refreshing cocktail that's perfect for hot summer days.",
+    "ingredients": ["Vodka", "Fresh Cucumber", "Mint Leaves", "Lime Juice", "Simple Syrup"],
+    "price": "1450"
+  },
+  {
+    "name": "Espresso Martini",
+    "description": "A sophisticated cocktail that combines the best of coffee and spirits for an energizing experience.",
+    "ingredients": ["Vodka", "Coffee Liqueur", "Fresh Espresso", "Simple Syrup"],
+    "price": "1350"
+  },
+  {
+    "name": "Blood Orange Negroni",
+    "description": "A bitter-sweet Italian classic with a citrus twist, perfect for sophisticated palates.",
+    "ingredients": ["Gin", "Campari", "Sweet Vermouth", "Blood Orange Juice"],
+    "price": "1480"
+  },
+  {
+    "name": "Honey Whiskey Sour",
+    "description": "A smooth and balanced cocktail with natural sweetness and citrus notes.",
+    "ingredients": ["Whiskey", "Honey Syrup", "Lemon Juice", "Egg White", "Angostura Bitters"],
+    "price": "1700"
+  },
+  {
+    "name": "Watermelon Basil Smash",
+    "description": "A fresh and herbaceous cocktail that captures the essence of summer.",
+    "ingredients": ["Gin", "Fresh Watermelon", "Basil Leaves", "Lime Juice", "Simple Syrup"],
+    "price": "1700"
+  },
+  {
+    "name": "Midnight Manhattan",
+    "description": "A dark and mysterious twist on the classic Manhattan, perfect for evening sophistication.",
+    "ingredients": ["Rye Whiskey", "Sweet Vermouth", "Cherry Liqueur", "Chocolate Bitters"],
+    "price": "1580"
+  },
+  {
+    "name": "Ginger Peach Fizz",
+    "description": "A sparkling cocktail with a perfect balance of sweet peach and spicy ginger.",
+    "ingredients": ["Vodka", "Peach Liqueur", "Fresh Ginger", "Lemon Juice", "Champagne"],
+    "price": "1350"
+  },
+  {
+    "name": "Rosemary Grapefruit Spritz",
+    "description": "A herbaceous and citrusy cocktail with a refreshing bitter edge.",
+    "ingredients": ["Gin", "Grapefruit Juice", "Rosemary Simple Syrup", "Aperol", "Soda Water"],
+    "price": "1200"
+  },
+  {
+    "name": "Spiced Apple Cider Punch",
+    "description": "A warming cocktail perfect for cozy nights and autumn celebrations.",
+    "ingredients": ["Bourbon", "Apple Cider", "Cinnamon Syrup", "Lemon Juice", "Star Anise"],
+    "price": "1150"
+  },
+  {
+    "name": "Tropical Thunder",
+    "description": "An explosive mix of tropical flavors that brings the party to your glass.",
+    "ingredients": ["Dark Rum", "Spiced Rum", "Passion Fruit", "Lime Juice", "Blue Curacao"],
+    "price": "1400"
+  },
+  {
+    "name": "Violet Dreams",
+    "description": "A delicate and floral cocktail with a beautiful purple hue, perfect for romantic evenings.",
+    "ingredients": ["Gin", "Crème de Violette", "Lemon Juice", "Simple Syrup", "Butterfly Pea Flower"],
+    "price": "1300"
+  },
+  {
+    "name": "Maple Bourbon Fizz",
+    "description": "A Canadian-inspired cocktail with rich maple notes and refreshing bubbles.",
+    "ingredients": ["Bourbon", "Maple Syrup", "Lemon Juice", "Egg White", "Club Soda"],
+    "price": "1450"
+  },
+  {
+    "name": "Strawberry Jalapeño Margarita",
+    "description": "A sweet and spicy twist on the classic margarita for those who like it hot.",
+    "ingredients": ["Tequila", "Triple Sec", "Fresh Strawberries", "Jalapeño", "Lime Juice"],
+    "price": "1250"
+  },
+  {
+    "name": "Golden Hour",
+    "description": "A warm and inviting cocktail that captures the beauty of sunset in a glass.",
+    "ingredients": ["Vodka", "Elderflower Liqueur", "Honey", "Lemon Juice", "Turmeric"],
+    "price": "1350"
+  }
+]
+
+
+
